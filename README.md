@@ -1,5 +1,6 @@
 # Ex-06-EC2 Instance Creation
-
+### Name: Mario Viofer J
+### Register No: 212223100032
 ## **Aim**
 To set up and launch an Amazon EC2 instance, providing on-demand computing services with flexible configurations for application deployment.
 
